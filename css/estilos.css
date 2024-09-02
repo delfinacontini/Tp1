@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+body {
+
+    font-family: "Nunito Sans";
+    font-weight: 300;
+    background-color: rgb(236, 243, 236);
+    color: rgb(0, 50, 0);
+    text-align: left;
+
+}
+h1 {
+
+    font-family: "Bricolage Grotesque";
+    font-weight: 700;
+    text-align: left;
+
+}
+
+h3 {
+    font-family: "Nunito Sans";
+    font-weight: 300;
+}
+
+#Sub {
+    text-decoration: underline;
+}
